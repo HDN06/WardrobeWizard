@@ -104,4 +104,4 @@ The current version is an MVP focused on core functionality. Planned enhancement
 
 All future features will maintain the core principle: **style only what you already own** — with no pressure to purchase new items.
 
-We are committed to building an ethical, sustainable tool that evolves based on real user feedback.
+We are ready to committed to building an ethical, sustainable tool that evolves based on real user feedback.
